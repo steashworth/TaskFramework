@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-19T14:08:14 AEST" name="TestSuite" finished-at="2020-06-19T14:10:24 AEST" duration-ms="130268">
+    <groups>
+    </groups>
+    <test started-at="2020-06-19T14:08:14 AEST" name="ChromeTests" finished-at="2020-06-19T14:10:24 AEST" duration-ms="130268">
+      <class name="com.automationpractice.tests.AddToCartFromCategoryPageTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromCategoryPageTest@2f112965]" started-at="2020-06-19T14:09:44 AEST" name="setupTest" finished-at="2020-06-19T14:09:50 AEST" duration-ms="5959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="validateAddToCartFromCategoryPage(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromCategoryPageTest@2f112965]" started-at="2020-06-19T14:09:50 AEST" name="validateAddToCartFromCategoryPage" finished-at="2020-06-19T14:10:23 AEST" duration-ms="32228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartFromCategoryPage -->
+        <test-method is-config="true" signature="tearDownTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromCategoryPageTest@2f112965]" started-at="2020-06-19T14:10:23 AEST" name="tearDownTest" finished-at="2020-06-19T14:10:24 AEST" duration-ms="1384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.automationpractice.tests.AddToCartFromCategoryPageTest -->
+      <class name="com.automationpractice.tests.AddToCartFromProductPageTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromProductPageTest@43301423]" started-at="2020-06-19T14:09:12 AEST" name="setupTest" finished-at="2020-06-19T14:09:19 AEST" duration-ms="6480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="validateAddToCartFromProductPage(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromProductPageTest@43301423]" started-at="2020-06-19T14:09:19 AEST" name="validateAddToCartFromProductPage" finished-at="2020-06-19T14:09:43 AEST" duration-ms="24079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartFromProductPage -->
+        <test-method is-config="true" signature="tearDownTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromProductPageTest@43301423]" started-at="2020-06-19T14:09:43 AEST" name="tearDownTest" finished-at="2020-06-19T14:09:44 AEST" duration-ms="1330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.automationpractice.tests.AddToCartFromProductPageTest -->
+      <class name="com.automationpractice.tests.AddToCartFromHomePageTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromHomePageTest@3c9d0b9d]" started-at="2020-06-19T14:08:14 AEST" name="setupTest" finished-at="2020-06-19T14:08:26 AEST" duration-ms="12311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="validateAddToCartFromHomePage(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromHomePageTest@3c9d0b9d]" started-at="2020-06-19T14:08:26 AEST" name="validateAddToCartFromHomePage" finished-at="2020-06-19T14:09:11 AEST" duration-ms="44533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartFromHomePage -->
+        <test-method is-config="true" signature="tearDownTest(java.lang.String)[pri:0, instance:com.automationpractice.tests.AddToCartFromHomePageTest@3c9d0b9d]" started-at="2020-06-19T14:09:11 AEST" name="tearDownTest" finished-at="2020-06-19T14:09:12 AEST" duration-ms="1728" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.automationpractice.tests.AddToCartFromHomePageTest -->
+    </test> <!-- ChromeTests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
